@@ -1,1 +1,34 @@
 
+{
+  "questions": [
+    {
+      "id": "aviation-0001",
+      "categoryId": "aviation",
+      "question": "What does IAS stand for?",
+      "options": [
+        "Indicated Airspeed",
+        "International Air Speed",
+        "Instrument Altitude System",
+        "Indicated Altitude Speed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "IAS stands for Indicated Airspeed. It is the airspeed displayed by the aircraft's airspeed indicator.",
+      "language": "en"
+    },
+    {
+      "id": "aviation-0002",
+      "categoryId": "aviation",
+      "question": "Which instrument measures aircraft altitude?",
+      "options": [
+        "Airspeed Indicator",
+        "Altimeter",
+        "Heading Indicator",
+        "Turn Coordinator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An altimeter indicates aircraft altitude based on atmospheric pressure.",
+      "language": "en"
+    }
+  ]
+}
+
